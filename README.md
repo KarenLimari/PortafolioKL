@@ -1,29 +1,42 @@
-## Elección del Proyecto
+# Ingeniera Comercial, TM en Radiología y Física Médica
+
+### EDUCACIÓN
+
+- Ingeniera Comercial, Universidad de Arturo Prat, Chile – 2023
+- Máster en Bioética Asistencial, Calidad y Seguridad en el Ámbito Sanitario – Universidad de Valencia, España – 2020
+- Tecnóloga Médica, mención en Radiología y Física Médica – Universidad de Tarapacá, Chile – 2008
+
+### EXPERIENCIA LABORAL
+
+**Analista de Gestión Empresarial, Center for Competitive Management and Territorial Innovation of Chile(ago. 2024 – Actualidad).**
+
+1. Elaboración de informes detallados basados en análisis de datos, proporcionando insights accionables para la toma de decisiones estratégicas.
+2. Implementación de sistemas de gestión de datos, para garantizar la integridad y accesibilidad de la información del programa Globaliza-PYME.
+3. Análisis de datos relacionados con la participación en actividades de formación, mejorando la planificación de futuras intervenciones.
+
+**Tecnóloga Médica en Radiología y Física Médica, Cínica San José, Bupa – Servicio de Imagenología. Arica-Chile (2008 – 2024).**
+
+1. Manejo de software de gestión de imágenes como RIS y PACS, optimizando la eficiencia en el flujo de trabajo y mejorando la gestión de datos médicos.
+2. Realización de exámenes de imagenología incluyendo radiología digital, Tomografía Computarizada (TC), resonancia magnética y medicina nuclear, con un enfoque en la precisión diagnóstica y la comodidad del paciente.
+3. Análisis de datos clínicos relacionados con la precisión diagnóstica, utilizando herramientas IT para asegurar la calidad y eficiencia en la entrega de resultados.
+4. Colaboración con equipos multidisciplinarios en situaciones críticas, gestionando altos volúmenes de trabajo bajo presión, asegurando tiempos de respuesta rápidos.
+
+### PROYECTOS
+
+1. **Gestión de Inmuebles:Backend y Optimización de Datos con Django**
 
 El proyecto de gestión de inmuebles que se presenta en este repositorio [Proyecto_inmuebles](https://github.com/KarenLimari/proyecto_inmuebles.git), me permitió abarcar una variedad de conceptos que son fundamentales para el desarrollo de aplicaciones web con Django. Este proyecto tiene un enfoque en la autenticación de usuarios, gestión de propiedades y permisos, lo que me brindó la oportunidad de fortalecer mis habilidades en el manejo de bases de datos, autenticación, y la creación de un sistema de permisos y grupos de usuarios. Además, como el proyecto involucra tanto funcionalidades básicas (CRUD de inmuebles) como características de seguridad (como la gestión de grupos y permisos), considero que es un desafío ideal para un portafolio.
 
-### Lo que he logrado hasta el momento
+##### Lo que he logrado hasta el momento
 
 Hasta el momento, he avanzado en la implementación del backend del proyecto. He trabajado en la creación y gestión de usuarios, permitiendo que los usuarios se registren como arrendadores o arrendatarios, asignándoles los permisos y grupos adecuados. También he implementado el sistema de autenticación, lo que permite a los usuarios registrarse, iniciar sesión y acceder a las funcionalidades del sistema según su rol.
 
 A pesar de que el frontend aún no está completo y algunas funcionalidades adicionales están pendientes, el avance en el backend va bien. He podido configurar correctamente los modelos de Inmueble, User, Comuna, Region, y TipoInmueble, así como gestionar las migraciones y la relación entre ellos mediante claves foráneas.
 
-### Lo que falta por completar
+2. **Evaluación de Displasia de Caderas en Niños**
 
-Me faltan completar algunas funcionalidades en el frontend, como el diseño de la interfaz de usuario y algunas opciones adicionales de búsqueda y filtrado de inmuebles. También planeo trabajar en el despliegue del proyecto en Render para que sea accesible en línea y más fácil de mostrar a futuros empleadores o clientes.
+Desarrollé un sistema automatizado en Python para asistir en la evaluación de displasia de cadera en niños, basado en mediciones clínicas estándar. Este sistema emplea trazados radiológicos clave, como las líneas de Hilgenreiner y Perkins, el ángulo acetabular, y la posición de la cabeza femoral.
 
-### Retroalimentación del profesor
+El enfoque permite analizar de manera rápida y precisa los datos ingresados por tecnólogos médicos, generando alertas automáticas en casos que podrían requerir atención prioritaria por parte del médico radiólogo. Esta solución apoya la detección temprana de la displasia y facilita la priorización en la emisión de informes radiológicos, especialmente en entornos pediátricos.
 
-La retroalimentación del profesor fue muy positiva y me motivó a seguir avanzando. Los comentarios sobre la claridad de la presentación y la lógica implementada me animan a continuar perfeccionando el proyecto. El hecho de reconocer lo que falta y cómo planeo abordarlo también es un reflejo de la manera en que trabajo, y mi compromiso con el desafío.
-
-### Buenas Prácticas en el Desarrollo
-
-Durante el desarrollo de este proyecto, he seguido varias buenas prácticas para asegurar un código limpio y eficiente:
-
-1. Uso de control de versiones con Git: He documentado todos los cambios del proyecto.
-2. Código modular: He separado funcionalidades en archivos de vistas, formularios y modelos, lo que facilita la comprensión y mantenimiento del código.
-3. Documentación: He documentado tanto el código como el proceso de desarrollo para facilitar la comprensión del proyecto por otros desarrolladores, incluyendo capturas de pantalla para visualizaciñon del avance.
-
-### Conclusión
-
-Este proyecto me ha permitido aplicar y reforzar mis conocimientos en Django, además de aprender nuevas herramientas y buenas prácticas en el desarrollo web. Aunque el proyecto no está 100% terminado, el avance que el logrado del backend y las funcionalidades de base de datos, lo que es clave para cualquier desarrollador junior que busque destacar en el mercado. Estoy comprometida en continuar el desarrollo del proyecto, perfeccionando la parte gráfica y agregando las funcionalidades necesarias para completarlo.
+Puedes encontrar este proyecto aquí [Displasia_Caderas](https://github.com/KarenLimari/Displasia_Caderas.git)
