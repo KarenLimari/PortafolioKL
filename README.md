@@ -2,7 +2,7 @@
 
 ## Elección del Proyecto
 
-El proyecto de gestión de inmuebles que se presenta en este repositorio, me permitió abarcar una variedad de conceptos que son fundamentales para el desarrollo de aplicaciones web con Django. Este proyecto tiene un enfoque en la autenticación de usuarios, gestión de propiedades y permisos, lo que me brindó la oportunidad de fortalecer mis habilidades en el manejo de bases de datos, autenticación, y la creación de un sistema de permisos y grupos de usuarios. Además, como el proyecto involucra tanto funcionalidades básicas (CRUD de inmuebles) como características de seguridad (como la gestión de grupos y permisos), considero que es un desafío ideal para un portafolio.
+El proyecto de gestión de inmuebles que se presenta en este repositorio (https://github.com/KarenLimari/proyecto_inmuebles.git)), me permitió abarcar una variedad de conceptos que son fundamentales para el desarrollo de aplicaciones web con Django. Este proyecto tiene un enfoque en la autenticación de usuarios, gestión de propiedades y permisos, lo que me brindó la oportunidad de fortalecer mis habilidades en el manejo de bases de datos, autenticación, y la creación de un sistema de permisos y grupos de usuarios. Además, como el proyecto involucra tanto funcionalidades básicas (CRUD de inmuebles) como características de seguridad (como la gestión de grupos y permisos), considero que es un desafío ideal para un portafolio.
 
 ### Lo que he logrado hasta el momento
 
